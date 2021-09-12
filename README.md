@@ -8,7 +8,7 @@ As our base model, we implement a 3-layer CNN, and our core model incorporates b
 
 After training on MNIST, we obtain the example results:
 
-
+![STN on MNIST results](stn_results.png)
 
 
 
