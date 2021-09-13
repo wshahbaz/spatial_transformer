@@ -10,5 +10,7 @@ After training on MNIST, we obtain the example results:
 
 ![STN on MNIST results](stn_results.png)
 
+### References
+- [Spatial Transformer Networks](https://arxiv.org/abs/1506.02025)
 
 
